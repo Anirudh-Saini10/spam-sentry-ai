@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+results/
+logs/
+.idea/
+.vscode/
+spam_model/
