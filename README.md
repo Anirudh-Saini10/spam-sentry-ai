@@ -6,7 +6,7 @@ SpamSentry is an AI-powered phishing and SMS spam detection system built using a
 
 # 🚀 Live Demo
 
-https://spam-sentry-ai-ohzyu8xplysuo9jfnzl5tj.streamlit.app/
+https://spamsentry-scam-detector.streamlit.app/
 
 ---
 
