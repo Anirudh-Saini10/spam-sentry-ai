@@ -109,8 +109,13 @@ safe_examples = [
 
 @st.cache_resource
 def load_model():
-    tokenizer = DistilBertTokenizer.from_pretrained('./spam_model')
-    model = DistilBertForSequenceClassification.from_pretrained('./spam_model')
+    tokenizer = DistilBertTokenizer.from_pretrained(
+    "anirudhsaini/spamsentry-model"
+    )
+
+    model = DistilBertForSequenceClassification.from_pretrained(
+    "anirudhsaini/spamsentry-model"
+    )
     model.eval()
     return tokenizer, model
 
