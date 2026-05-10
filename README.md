@@ -104,7 +104,8 @@ The trained transformer weights are hosted separately on Hugging Face because th
 
 <img width="1338" height="626" alt="image" src="https://github.com/user-attachments/assets/c208caee-4109-4f86-8b0d-dd574122f70c" />
 
-<img width="1248" height="571" alt="image" src="https://github.com/user-attachments/assets/41154da9-ae08-4ba3-82c3-a66ddae29187" />
+<img width="1356" height="638" alt="image" src="https://github.com/user-attachments/assets/692f6eea-6a08-42bc-840e-4b49c3c6d7f0" />
+
 
 ## Features Demonstrated
 
