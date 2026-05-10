@@ -6,11 +6,6 @@ AI-powered SMS spam and phishing detection system using a fine-tuned DistilBERT 
 
 https://spam-sentry-ai-ohzyu8xplysuo9jfnzl5tj.streamlit.app/
 
-## 📂 GitHub Repository
-
-https://github.com/Anirudh-Saini10/spam-sentry-ai
-
----
 
 # 🔥 Features
 
